@@ -5,3 +5,6 @@
 !.gitignore
 build
 pyipopt.so
+dist
+pyipopt.egg-info
+Ipopt

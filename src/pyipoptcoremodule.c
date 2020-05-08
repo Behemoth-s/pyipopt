@@ -618,6 +618,7 @@ PyObject *solve(PyObject * self, PyObject * args)
 			Py_XDECREF(mL);
 			Py_XDECREF(mU);
 			Py_XDECREF(lambda);
+			Py_XDECREF(lambda);
 		}
 		SAFE_FREE(newx0);
 		return retval;

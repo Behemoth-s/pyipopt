@@ -94,7 +94,7 @@ setup(
     description="An IPOPT connector for Python Windows version",
     author="Kai Liu",
     author_email="liukaiv5@gmail.com",
-    url="https://github.com/xuy/pyipopt",
+    url="https://github.com/Behemoth-s/pyipopt",
     packages=['pyipopt'],
     package_dir={'pyipopt': 'pyipoptpackage'},
     # package_data={'':data_files},
